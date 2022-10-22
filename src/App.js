@@ -5,9 +5,10 @@ import About from "./Components/About/About";
 import Experience from "./Components/Experience/Experience";
 // import Services from "./Components/Services/Services"
 import { Portfolio } from "./Components/Portfolio/Portfolio";
-// import Testimonials from "./Components/Testimonials/Testimonials"
+import Calendar from './Components/Calendar/Calendar'
 import Contact from "./Components/Contact/Contact";
 import Footer from "./Components/Footer/Footer";
+import Statistics from './Components/My Statistics/Statistics'
 function App() {
   return (
     <div className="App">
@@ -17,8 +18,8 @@ function App() {
         <About />
         <Experience />
         <Portfolio />
-        {/* <Services/> */}
-        {/* <Testimonials/> */}
+        <Statistics/>
+       <Calendar/>
         <Contact />
         <Footer />
       </>

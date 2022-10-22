@@ -1,0 +1,24 @@
+.calen{
+	margin: "auto";
+	width: "70%";
+}
+
+/* ...............Media queries(Medium Device)........................ */
+@media screen and (max-width: 1024px) {
+	.calen{
+		width: 90%;
+		margin: auto;
+	}
+   }
+   
+   
+   
+   /* ...............Media queries(Small Device)........................ */
+   @media screen and (max-width: 600px) {
+	
+	.calen{
+		width: 90%;
+		margin: auto;
+		
+	 }
+   }
