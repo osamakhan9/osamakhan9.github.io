@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.cfe67546.css",
-    "main.js": "/static/js/main.ba429930.js",
+    "main.js": "/static/js/main.476490cf.js",
     "static/js/787.63434964.chunk.js": "/static/js/787.63434964.chunk.js",
+    "static/media/movie.png": "/static/media/movie.4c991f4cf9b9f5e41896.png",
     "static/media/Kfc.png": "/static/media/Kfc.37e0f2ee3bca8e10bbce.png",
+    "static/media/ndtv.png": "/static/media/ndtv.8b0965c7a3c5d3f6a3b1.png",
     "static/media/plu.png": "/static/media/plu.89f280773d76e8dba1c3.png",
+    "static/media/hack.png": "/static/media/hack.36e5f4b749fc5ee5d5d6.png",
     "static/media/Osama.pdf": "/static/media/Osama.b8eee5c593460ec58fe3.pdf",
     "index.html": "/index.html",
     "main.cfe67546.css.map": "/static/css/main.cfe67546.css.map",
-    "main.ba429930.js.map": "/static/js/main.ba429930.js.map",
+    "main.476490cf.js.map": "/static/js/main.476490cf.js.map",
     "787.63434964.chunk.js.map": "/static/js/787.63434964.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfe67546.css",
-    "static/js/main.ba429930.js"
+    "static/js/main.476490cf.js"
   ]
 }
