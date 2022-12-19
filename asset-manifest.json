@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba03c942.css",
-    "main.js": "/static/js/main.2b749452.js",
+    "main.css": "/static/css/main.7ecc650d.css",
+    "main.js": "/static/js/main.3be79eea.js",
     "static/js/787.63434964.chunk.js": "/static/js/787.63434964.chunk.js",
     "static/media/movie.png": "/static/media/movie.4c991f4cf9b9f5e41896.png",
     "static/media/trip.png": "/static/media/trip.8b9c202ff9f41168deb7.png",
@@ -11,12 +11,12 @@
     "static/media/plu.png": "/static/media/plu.89f280773d76e8dba1c3.png",
     "static/media/Mohammad-Osama-Resume.pdf": "/static/media/Mohammad-Osama-Resume.2fbb2e551f0d1ab6ffc4.pdf",
     "index.html": "/index.html",
-    "main.ba03c942.css.map": "/static/css/main.ba03c942.css.map",
-    "main.2b749452.js.map": "/static/js/main.2b749452.js.map",
+    "main.7ecc650d.css.map": "/static/css/main.7ecc650d.css.map",
+    "main.3be79eea.js.map": "/static/js/main.3be79eea.js.map",
     "787.63434964.chunk.js.map": "/static/js/787.63434964.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba03c942.css",
-    "static/js/main.2b749452.js"
+    "static/css/main.7ecc650d.css",
+    "static/js/main.3be79eea.js"
   ]
 }
