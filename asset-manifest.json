@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2fea2ee8.css",
-    "main.js": "/static/js/main.a65f0989.js",
+    "main.js": "/static/js/main.2256fbb9.js",
     "static/js/787.63434964.chunk.js": "/static/js/787.63434964.chunk.js",
     "static/media/6.jpg": "/static/media/6.4691308100813ae09dd5.jpg",
     "static/media/movie.png": "/static/media/movie.4c991f4cf9b9f5e41896.png",
@@ -23,16 +23,16 @@
     "static/media/3.webp": "/static/media/3.58410c8f3b1e231a19f9.webp",
     "static/media/5.webp": "/static/media/5.1b4423b2a51a4cf08128.webp",
     "static/media/4.webp": "/static/media/4.e769088edeaec46e7044.webp",
+    "static/media/Mohammad-Osama-Resume.pdf": "/static/media/Mohammad-Osama-Resume.6e540366193c56179bf3.pdf",
     "static/media/2.webp": "/static/media/2.a32282dc7e241dda491a.webp",
-    "static/media/Mohammad-Osama-Resume.pdf": "/static/media/Mohammad-Osama-Resume.639619edcaf1015d1599.pdf",
     "static/media/material-ui.svg": "/static/media/material-ui.da7fba49c4e54be0ace3c4556eada283.svg",
     "index.html": "/index.html",
     "main.2fea2ee8.css.map": "/static/css/main.2fea2ee8.css.map",
-    "main.a65f0989.js.map": "/static/js/main.a65f0989.js.map",
+    "main.2256fbb9.js.map": "/static/js/main.2256fbb9.js.map",
     "787.63434964.chunk.js.map": "/static/js/787.63434964.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fea2ee8.css",
-    "static/js/main.a65f0989.js"
+    "static/js/main.2256fbb9.js"
   ]
 }
